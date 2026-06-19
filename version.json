@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "url": "https://perfectivvn-my.sharepoint.com/:u:/g/personal/quynguyenk_per-fectiv_com/IQCeXPrJmNGzQ5mw8IgmlmLyAS5VwjGJSbOAFJDQW2Bo3S4?download=1",
+    "url": "https://pixeldrain.com/u/NRWy2hdC",
     "download_url": "https://pixeldrain.com/u/NRWy2hdC",
     "message": "Thêm tính năng Chống phát hiện (Giả lập vật lý):\nĐã thêm một Checkbox bật/tắt trực tiếp tại tab Chạy Đa Luồng (ngay dưới danh sách các Profile và trên các nút điều khiển).\n\n  • Tạo độ lệch ngẫu nhiên nhỏ từ -2 đến 2 pixel cho mỗi lần di chuyển chuột.\n  • Giả lập tốc độ di chuyển chuột tự nhiên thay vì dịch chuyển tức thời.\n  • Tạo các khoảng trễ micro-delay ngẫu nhiên trước/sau khi nhấn chuột và thời gian giữ chuột (hold delay) để mô phỏng hoàn hảo hành vi của người thật.\n  • Nhằm mục đích chống phát hiện gian lận ở một số game.",
     "is_mandatory": true
